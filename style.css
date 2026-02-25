@@ -1,45 +1,22 @@
 body {
     background-color: black;
-    color: white;
+        color: white;
    
 }
 
-img {
-    height: 300px;
-    border: 5px solid rgb(255, 255, 255);
-    border-radius: 30px;
-}
-
-h1 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 20px;
-    background-color: rgb(255, 255, 0);
-    color: black
-}
-
-p {
-    color: white
-}
-
-footer p{
-    color: black
-}
-header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 button { 
+    size: 10px;
     background-color: transparent;
+        border: none;
 
 }
 
 
 
 button img {
-     width: 100%;
-     border: 5px solid yellow;
-     border-radius: 1000px;
+    height: 200px;;
+         width: 100%;
+            border-radius: 1000px;
      
 
 
